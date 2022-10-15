@@ -479,4 +479,662 @@ export const housesData = [
       phone: '47 3224-1847',
     },
   },
+  {
+    id: 7,
+    type: 'Casa',
+    name: 'TestNetHouse',
+    isAvailable: 'Vendida',
+    description:
+      'Um magnifico refúgio ao urbano. Esta é a casa Oasis, criada com linhas orgânicas e imponentes através do inconfundível traço do arquiteto Mauricio Melara. Esta obra de arte traz elementos marcante em seus 530m², com 4 suítes, garagens com espaço para 7 carros e amplos ambientes em conceito aberto, conversando com o coração do projeto: uma área de lazer paradisíaca.',
+    image: OasisHouse,
+    fachada: Oasis1Lg,
+    carouselData: [
+      {
+        image: Oasis2Lg,
+        video: ''
+      },
+      {
+        image: Oasis3Lg,
+        video: ''
+      },
+      {
+        image: Oasis4Lg,
+        video: ''
+      },
+      {
+        image: Oasis5Lg,
+        video: ''
+      },
+      {
+        image: Oasis6Lg,
+        video: ''
+      },
+      {
+        image: Oasis7Lg,
+        video: ''
+      },
+      {
+        image: Oasis8Lg,
+        video: ''
+      },
+      {
+        image: Oasis9Lg,
+        video: ''
+      },
+      {
+        image: Oasis10Lg,
+        video: ''
+      },
+      {
+        image: Oasis11Lg,
+        video: ''
+      },
+      {
+        image: Oasis12Lg,
+        video: ''
+      },
+      {
+        image: Oasis13Lg,
+        video: ''
+      },
+      {
+        image: Oasis14Lg,
+        video: ''
+      },
+      {
+        image: Oasis15Lg,
+        video: ''
+      },
+      {
+        image: Oasis16Lg,
+        video: ''
+      },
+      {
+        image: Oasis17Lg,
+        video: ''
+      },
+      {
+        image: Oasis18Lg,
+        video: ''
+      },
+    ],
+    country: 'Porto Belo',
+    address: 'Viva Park Porto Belo | Quadra 04 | Lote 05-06',
+    bedrooms: '4',
+    bathrooms: '7',
+    surface: '750m²',
+    built: '530m²',
+    price: '8561500',
+    pricepage: '8.561.500',
+    location: OasisLocation,
+    agent: {
+      image: Agent1,
+      name: 'Eduardo Topanotti',
+      phone: '47 3224-1847',
+    },
+  },
+  {
+    id: 8,
+    type: 'Casa',
+    name: 'TestNet2',
+    isAvailable: 'Disponível',
+    description:
+      'Um magnifico refúgio ao urbano. Esta é a casa Oasis, criada com linhas orgânicas e imponentes através do inconfundível traço do arquiteto Mauricio Melara. Esta obra de arte traz elementos marcante em seus 530m², com 4 suítes, garagens com espaço para 7 carros e amplos ambientes em conceito aberto, conversando com o coração do projeto: uma área de lazer paradisíaca.',
+    image: OasisHouse,
+    fachada: Oasis1Lg,
+    carouselData: [
+      {
+        image: Oasis2Lg,
+        video: ''
+      },
+      {
+        image: Oasis3Lg,
+        video: ''
+      },
+      {
+        image: Oasis4Lg,
+        video: ''
+      },
+      {
+        image: Oasis5Lg,
+        video: ''
+      },
+      {
+        image: Oasis6Lg,
+        video: ''
+      },
+      {
+        image: Oasis7Lg,
+        video: ''
+      },
+      {
+        image: Oasis8Lg,
+        video: ''
+      },
+      {
+        image: Oasis9Lg,
+        video: ''
+      },
+      {
+        image: Oasis10Lg,
+        video: ''
+      },
+      {
+        image: Oasis11Lg,
+        video: ''
+      },
+      {
+        image: Oasis12Lg,
+        video: ''
+      },
+      {
+        image: Oasis13Lg,
+        video: ''
+      },
+      {
+        image: Oasis14Lg,
+        video: ''
+      },
+      {
+        image: Oasis15Lg,
+        video: ''
+      },
+      {
+        image: Oasis16Lg,
+        video: ''
+      },
+      {
+        image: Oasis17Lg,
+        video: ''
+      },
+      {
+        image: Oasis18Lg,
+        video: ''
+      },
+    ],
+    country: 'Porto Belo',
+    address: 'Viva Park Porto Belo | Quadra 04 | Lote 05-06',
+    bedrooms: '4',
+    bathrooms: '7',
+    surface: '750m²',
+    built: '530m²',
+    price: '8561500',
+    pricepage: '8.561.500',
+    location: OasisLocation,
+    agent: {
+      image: Agent1,
+      name: 'Eduardo Topanotti',
+      phone: '47 3224-1847',
+    },
+  },
+  {
+    id: 9,
+    type: 'Casa',
+    name: 'TestNet3House',
+    isAvailable: 'Disponível',
+    description:
+      'Um magnifico refúgio ao urbano. Esta é a casa Oasis, criada com linhas orgânicas e imponentes através do inconfundível traço do arquiteto Mauricio Melara. Esta obra de arte traz elementos marcante em seus 530m², com 4 suítes, garagens com espaço para 7 carros e amplos ambientes em conceito aberto, conversando com o coração do projeto: uma área de lazer paradisíaca.',
+    image: OasisHouse,
+    fachada: Oasis1Lg,
+    carouselData: [
+      {
+        image: Oasis2Lg,
+        video: ''
+      },
+      {
+        image: Oasis3Lg,
+        video: ''
+      },
+      {
+        image: Oasis4Lg,
+        video: ''
+      },
+      {
+        image: Oasis5Lg,
+        video: ''
+      },
+      {
+        image: Oasis6Lg,
+        video: ''
+      },
+      {
+        image: Oasis7Lg,
+        video: ''
+      },
+      {
+        image: Oasis8Lg,
+        video: ''
+      },
+      {
+        image: Oasis9Lg,
+        video: ''
+      },
+      {
+        image: Oasis10Lg,
+        video: ''
+      },
+      {
+        image: Oasis11Lg,
+        video: ''
+      },
+      {
+        image: Oasis12Lg,
+        video: ''
+      },
+      {
+        image: Oasis13Lg,
+        video: ''
+      },
+      {
+        image: Oasis14Lg,
+        video: ''
+      },
+      {
+        image: Oasis15Lg,
+        video: ''
+      },
+      {
+        image: Oasis16Lg,
+        video: ''
+      },
+      {
+        image: Oasis17Lg,
+        video: ''
+      },
+      {
+        image: Oasis18Lg,
+        video: ''
+      },
+    ],
+    country: 'Porto Belo',
+    address: 'Viva Park Porto Belo | Quadra 04 | Lote 05-06',
+    bedrooms: '4',
+    bathrooms: '7',
+    surface: '750m²',
+    built: '530m²',
+    price: '8561500',
+    pricepage: '8.561.500',
+    location: OasisLocation,
+    agent: {
+      image: Agent1,
+      name: 'Eduardo Topanotti',
+      phone: '47 3224-1847',
+    },
+  },
+  {
+    id: 10,
+    type: 'Casa',
+    name: 'TestNetOasis',
+    isAvailable: 'Disponível',
+    description:
+      'Um magnifico refúgio ao urbano. Esta é a casa Oasis, criada com linhas orgânicas e imponentes através do inconfundível traço do arquiteto Mauricio Melara. Esta obra de arte traz elementos marcante em seus 530m², com 4 suítes, garagens com espaço para 7 carros e amplos ambientes em conceito aberto, conversando com o coração do projeto: uma área de lazer paradisíaca.',
+    image: OasisHouse,
+    fachada: Oasis1Lg,
+    carouselData: [
+      {
+        image: Oasis2Lg,
+        video: ''
+      },
+      {
+        image: Oasis3Lg,
+        video: ''
+      },
+      {
+        image: Oasis4Lg,
+        video: ''
+      },
+      {
+        image: Oasis5Lg,
+        video: ''
+      },
+      {
+        image: Oasis6Lg,
+        video: ''
+      },
+      {
+        image: Oasis7Lg,
+        video: ''
+      },
+      {
+        image: Oasis8Lg,
+        video: ''
+      },
+      {
+        image: Oasis9Lg,
+        video: ''
+      },
+      {
+        image: Oasis10Lg,
+        video: ''
+      },
+      {
+        image: Oasis11Lg,
+        video: ''
+      },
+      {
+        image: Oasis12Lg,
+        video: ''
+      },
+      {
+        image: Oasis13Lg,
+        video: ''
+      },
+      {
+        image: Oasis14Lg,
+        video: ''
+      },
+      {
+        image: Oasis15Lg,
+        video: ''
+      },
+      {
+        image: Oasis16Lg,
+        video: ''
+      },
+      {
+        image: Oasis17Lg,
+        video: ''
+      },
+      {
+        image: Oasis18Lg,
+        video: ''
+      },
+    ],
+    country: 'Porto Belo',
+    address: 'Viva Park Porto Belo | Quadra 04 | Lote 05-06',
+    bedrooms: '4',
+    bathrooms: '7',
+    surface: '750m²',
+    built: '530m²',
+    price: '8561500',
+    pricepage: '8.561.500',
+    location: OasisLocation,
+    agent: {
+      image: Agent1,
+      name: 'Eduardo Topanotti',
+      phone: '47 3224-1847',
+    },
+  },
+  {
+    id: 11,
+    type: 'Casa',
+    name: 'TestNet4',
+    isAvailable: 'Disponível',
+    description:
+      'Um magnifico refúgio ao urbano. Esta é a casa Oasis, criada com linhas orgânicas e imponentes através do inconfundível traço do arquiteto Mauricio Melara. Esta obra de arte traz elementos marcante em seus 530m², com 4 suítes, garagens com espaço para 7 carros e amplos ambientes em conceito aberto, conversando com o coração do projeto: uma área de lazer paradisíaca.',
+    image: OasisHouse,
+    fachada: Oasis1Lg,
+    carouselData: [
+      {
+        image: Oasis2Lg,
+        video: ''
+      },
+      {
+        image: Oasis3Lg,
+        video: ''
+      },
+      {
+        image: Oasis4Lg,
+        video: ''
+      },
+      {
+        image: Oasis5Lg,
+        video: ''
+      },
+      {
+        image: Oasis6Lg,
+        video: ''
+      },
+      {
+        image: Oasis7Lg,
+        video: ''
+      },
+      {
+        image: Oasis8Lg,
+        video: ''
+      },
+      {
+        image: Oasis9Lg,
+        video: ''
+      },
+      {
+        image: Oasis10Lg,
+        video: ''
+      },
+      {
+        image: Oasis11Lg,
+        video: ''
+      },
+      {
+        image: Oasis12Lg,
+        video: ''
+      },
+      {
+        image: Oasis13Lg,
+        video: ''
+      },
+      {
+        image: Oasis14Lg,
+        video: ''
+      },
+      {
+        image: Oasis15Lg,
+        video: ''
+      },
+      {
+        image: Oasis16Lg,
+        video: ''
+      },
+      {
+        image: Oasis17Lg,
+        video: ''
+      },
+      {
+        image: Oasis18Lg,
+        video: ''
+      },
+    ],
+    country: 'Porto Belo',
+    address: 'Viva Park Porto Belo | Quadra 04 | Lote 05-06',
+    bedrooms: '4',
+    bathrooms: '7',
+    surface: '750m²',
+    built: '530m²',
+    price: '8561500',
+    pricepage: '8.561.500',
+    location: OasisLocation,
+    agent: {
+      image: Agent1,
+      name: 'Eduardo Topanotti',
+      phone: '47 3224-1847',
+    },
+  },
+  {
+    id: 12,
+    type: 'Casa',
+    name: 'TestNetEccho',
+    isAvailable: 'Disponível',
+    description:
+      'Um magnifico refúgio ao urbano. Esta é a casa Oasis, criada com linhas orgânicas e imponentes através do inconfundível traço do arquiteto Mauricio Melara. Esta obra de arte traz elementos marcante em seus 530m², com 4 suítes, garagens com espaço para 7 carros e amplos ambientes em conceito aberto, conversando com o coração do projeto: uma área de lazer paradisíaca.',
+    image: OasisHouse,
+    fachada: Oasis1Lg,
+    carouselData: [
+      {
+        image: Oasis2Lg,
+        video: ''
+      },
+      {
+        image: Oasis3Lg,
+        video: ''
+      },
+      {
+        image: Oasis4Lg,
+        video: ''
+      },
+      {
+        image: Oasis5Lg,
+        video: ''
+      },
+      {
+        image: Oasis6Lg,
+        video: ''
+      },
+      {
+        image: Oasis7Lg,
+        video: ''
+      },
+      {
+        image: Oasis8Lg,
+        video: ''
+      },
+      {
+        image: Oasis9Lg,
+        video: ''
+      },
+      {
+        image: Oasis10Lg,
+        video: ''
+      },
+      {
+        image: Oasis11Lg,
+        video: ''
+      },
+      {
+        image: Oasis12Lg,
+        video: ''
+      },
+      {
+        image: Oasis13Lg,
+        video: ''
+      },
+      {
+        image: Oasis14Lg,
+        video: ''
+      },
+      {
+        image: Oasis15Lg,
+        video: ''
+      },
+      {
+        image: Oasis16Lg,
+        video: ''
+      },
+      {
+        image: Oasis17Lg,
+        video: ''
+      },
+      {
+        image: Oasis18Lg,
+        video: ''
+      },
+    ],
+    country: 'Porto Belo',
+    address: 'Viva Park Porto Belo | Quadra 04 | Lote 05-06',
+    bedrooms: '4',
+    bathrooms: '7',
+    surface: '750m²',
+    built: '530m²',
+    price: '8561500',
+    pricepage: '8.561.500',
+    location: OasisLocation,
+    agent: {
+      image: Agent1,
+      name: 'Eduardo Topanotti',
+      phone: '47 3224-1847',
+    },
+  },
+  {
+    id: 13,
+    type: 'Casa',
+    name: 'TestNetCasa',
+    isAvailable: 'Vendida',
+    description:
+      'Um magnifico refúgio ao urbano. Esta é a casa Oasis, criada com linhas orgânicas e imponentes através do inconfundível traço do arquiteto Mauricio Melara. Esta obra de arte traz elementos marcante em seus 530m², com 4 suítes, garagens com espaço para 7 carros e amplos ambientes em conceito aberto, conversando com o coração do projeto: uma área de lazer paradisíaca.',
+    image: OasisHouse,
+    fachada: Oasis1Lg,
+    carouselData: [
+      {
+        image: Oasis2Lg,
+        video: ''
+      },
+      {
+        image: Oasis3Lg,
+        video: ''
+      },
+      {
+        image: Oasis4Lg,
+        video: ''
+      },
+      {
+        image: Oasis5Lg,
+        video: ''
+      },
+      {
+        image: Oasis6Lg,
+        video: ''
+      },
+      {
+        image: Oasis7Lg,
+        video: ''
+      },
+      {
+        image: Oasis8Lg,
+        video: ''
+      },
+      {
+        image: Oasis9Lg,
+        video: ''
+      },
+      {
+        image: Oasis10Lg,
+        video: ''
+      },
+      {
+        image: Oasis11Lg,
+        video: ''
+      },
+      {
+        image: Oasis12Lg,
+        video: ''
+      },
+      {
+        image: Oasis13Lg,
+        video: ''
+      },
+      {
+        image: Oasis14Lg,
+        video: ''
+      },
+      {
+        image: Oasis15Lg,
+        video: ''
+      },
+      {
+        image: Oasis16Lg,
+        video: ''
+      },
+      {
+        image: Oasis17Lg,
+        video: ''
+      },
+      {
+        image: Oasis18Lg,
+        video: ''
+      },
+    ],
+    country: 'Porto Belo',
+    address: 'Viva Park Porto Belo | Quadra 04 | Lote 05-06',
+    bedrooms: '4',
+    bathrooms: '7',
+    surface: '750m²',
+    built: '530m²',
+    price: '8561500',
+    pricepage: '8.561.500',
+    location: OasisLocation,
+    agent: {
+      image: Agent1,
+      name: 'Eduardo Topanotti',
+      phone: '47 3224-1847',
+    },
+  },
 ];
